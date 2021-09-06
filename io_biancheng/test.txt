@@ -1,0 +1,8 @@
+使用with的write方法，写入文件，旧的文件已经被覆盖
+这是with的追加文件！！！
+zhangsan    33
+lisa        11
+wangwu      22
+zhangsan    33
+lisa        11
+wangwu      22
